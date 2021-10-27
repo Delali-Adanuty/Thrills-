@@ -1,3 +1,4 @@
+@import url('http://fonts.cdnfonts.com/css/dm-sans');
 *{
     margin:0;
     padding:0;
@@ -292,6 +293,7 @@ div.shopping-cart div.cart-items section.table table tr td input[type = "number"
     div.products-section ul.products li img{
         min-width:100%;
         max-width: 100%;
+        color:green
     }
 
     div.products-section ul.products li section.info{
