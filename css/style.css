@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
 *{
     margin:0;
     padding:0;
@@ -44,6 +44,7 @@ nav.top-nav ul li{
 
 nav.top-nav ul.left li.logo img{
     height: 4rem;
+    border: 1px solid white 
 }
 
 nav.top-nav ul.left a{
